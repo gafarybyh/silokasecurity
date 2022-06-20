@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "610954433913",
+    "project_id": "siloka-push-notif",
+    "storage_bucket": "siloka-push-notif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610954433913:android:9925f4efdf8839c65fcba8",
+        "android_client_info": {
+          "package_name": "com.siloka.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610954433913-81avg3p4lntf82r47hj73rjk9m4h3rjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUFz77GY4hjoMFSAMk5kj2D4OqD8hybQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610954433913-81avg3p4lntf82r47hj73rjk9m4h3rjj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610954433913-aige8a0k3e7l2jpq2seaa8qrs01gi1ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.silokaSecurity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
